@@ -1,8 +1,5 @@
 # 🔡 NLP(Sentiment Analysis) 프로젝트
 
-[프로젝트 버전 히스토리 보기](PROJECT_VERSION_HISTORY.md)  
-[GPT-4 기반 뉴스 헤드라인 감성분석 기획안 보기](GPT4_News_Sentiment_Project_Plan.md)
-
 <br>
 
 ## 🔎 주제
